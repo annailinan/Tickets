@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         int rubles = 20 ; //за сколько рублей дается одна миля
 
-        int ticketPrice = 12250;
+        int ticketPrice = 12500; // Цена билета
         System.out.println ((ticketPrice / rubles) + " Получите миль в подарок");
     }
 }
